@@ -1,6 +1,6 @@
 # Notes from Git, GitHub and GitKraken course
 
-Here are the notes I have taken from the [course] (https://srse-git-github-zero2hero.netlify.app/) 
+Here are the notes I have taken from the [course](https://srse-git-github-zero2hero.netlify.app/) 
 
 I have learned how to:
 
